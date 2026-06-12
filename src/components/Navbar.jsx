@@ -12,7 +12,7 @@ const Navbar = () => {
             }
         });
         navTween.fromTo('nav',{backgroundColor: 'transparent'},
-            {backgroundColor: '#00000050)',
+            {backgroundColor: 'rgba(0,0,0,0.31)',
             backdropFilter: 'blur(10px)',
             duration: 1,
             ease: 'power1.out',

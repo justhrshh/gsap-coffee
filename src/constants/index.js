@@ -1,6 +1,6 @@
 const navLinks = [
   {
-    id: "brews",
+    id: "cocktails",
     title: "Signature Brews",
   },
   {
@@ -8,7 +8,7 @@ const navLinks = [
     title: "Our Story",
   },
   {
-    id: "craft",
+    id: "art",
     title: "The Craft",
   },
   {
