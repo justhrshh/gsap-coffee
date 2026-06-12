@@ -161,7 +161,7 @@ const sliderLists = [
   },
   {
     id: 4,
-    name: "Reserve Espresso",
+    name: "Hazelnut Latte",
     image: "/images/coffee4.png",
     title: "Crafted For True Coffee Lovers",
     description:
